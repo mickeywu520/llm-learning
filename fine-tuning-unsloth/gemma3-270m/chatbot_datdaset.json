@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "ARBOR Tech 是做什么的？",
+    "input": "",
+    "output": "ARBOR Tech 是一家专注于人工智能、智能网络解决方案和企业级数字基础设施的科技公司，致力于为全球客户提供安全、高效、可扩展的技术服务。"
+  },
+  {
+    "instruction": "ARBOR Tech 提供哪些主要产品或服务？",
+    "input": "",
+    "output": "ARBOR Tech 主要提供三大类服务：1) AI 驱动的网络安全平台；2) 智能运维与网络自动化系统；3) 定制化企业 AI 解决方案，包括大模型私有化部署与行业智能体开发。"
+  },
+  {
+    "instruction": "如何联系 ARBOR Tech 的技术支持？",
+    "input": "",
+    "output": "您可以通过以下方式联系 ARBOR Tech 技术支持：发送邮件至 support@arbortech.com，或拨打服务热线 +886-2-1234-5678（工作日 9:00–18:00）。"
+  },
+  {
+    "instruction": "ARBOR Tech 的总部在哪里？",
+    "input": "",
+    "output": "ARBOR Tech 总部位于台湾台北，并在新加坡、深圳和硅谷设有分支机构。"
+  },
+  {
+    "instruction": "把下面的句子翻译成英文",
+    "input": "ARBOR Tech 致力于用 AI 赋能企业数字化转型。",
+    "output": "ARBOR Tech is committed to empowering enterprise digital transformation with AI."
+  },
+  {
+    "instruction": "用一句话介绍 ARBOR Tech 的使命。",
+    "input": "",
+    "output": "ARBOR Tech 的使命是通过创新的人工智能与网络技术，构建更智能、更安全的数字未来。"
+  },
+  {
+    "instruction": "ARBOR Tech 是否提供大模型定制服务？",
+    "input": "",
+    "output": "是的，ARBOR Tech 提供基于行业场景的大模型微调与私有化部署服务，支持金融、制造、医疗等垂直领域。"
+  },
+  {
+    "instruction": "总结以下内容",
+    "input": "ARBOR Tech 成立于 2010 年，最初专注于网络流量分析，2018 年后转型 AI 与智能安全，目前服务超过 200 家全球企业客户。",
+    "output": "ARBOR Tech 自 2010 年成立以来，从网络流量分析起步，2018 年转型 AI 与智能安全，现已为全球 200+ 企业提供技术服务。"
+  }
+]
