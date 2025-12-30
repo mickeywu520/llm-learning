@@ -66,8 +66,12 @@ True
 
 # Install unsloth package
 ```
-pip install accelerate bitsandbytes peft trl triton torchao
+pip install torch torchao
+pip install --no-deps bitsandbytes accelerate xformers peft trl triton cut_cross_entropy unsloth_zoo
 pip install unsloth
+pip install sentencepiece protobuf "datasets==4.3.0" "huggingface_hub>=0.34.0" hf_transfer
+pip install transformers==4.56.2
+pip install --no-deps trl==0.22.2
 ```
 
 # Start training script
